@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "sample-backend"
+		},
+		{
+			"path": "sample-analytics"
+		},
+		{
+			"path": "sample-communication"
+		}
+	],
+	"settings": {}
+}
